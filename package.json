@@ -1,12 +1,12 @@
 {
-  "name": "basic-electron-react-boilerplate",
-  "version": "0.7.0",
-  "description": "Minimal and modern react+electron+webpack boilerplate",
-  "author": "Phillip Barbiero",
-  "homepage": "https://github.com/pbarbiero/basic-electron-react-boilerplate",
+  "name": "writedown",
+  "version": "0.0.1",
+  "description": "writedown editor",
+  "author": "Yuri A. Parsons",
+  "homepage": "https://github.com:ninjakttty/writedown.git",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pbarbiero/basic-electron-react-boilerplate.git"
+    "url": "https://git@github.com:ninjakttty/writedown.git"
   },
   "license": "MIT",
   "main": "main.js",
